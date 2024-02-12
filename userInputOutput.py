@@ -1,0 +1,8 @@
+firstName = input("Enter your first name: ")
+print("Your first name is " + firstName)
+surname = input("Enter your surname: ")
+print("Your surname is " + surname)
+age = int(input("Enter your age: "))
+print("Your age next year will be ",(age+1))
+school = input("Enter your school: ")
+print("Your school is " + school)
